@@ -1,6 +1,3 @@
-### FaceTrack: AI-Powered Attendance Monitoring System
-
-```markdown
 # FaceTrack: AI-Powered Attendance Monitoring System
 
 FaceTrack is a streamlined AI-driven system that simplifies attendance tracking through facial recognition technology. With features like real-time attendance marking, student registration, and attendance record viewing, it offers a modern solution for educational institutions.
@@ -32,7 +29,7 @@ FaceTrack is a streamlined AI-driven system that simplifies attendance tracking 
    ```bash
    git clone https://github.com/yourusername/facetrack.git
    cd facetrack
-   ```
+
 
 2. **Install Dependencies**:
    ```bash
